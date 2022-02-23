@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello there :camera:
+- I'm a DevOps Consultant at [OBSS](https://obss.com.tr/en)  </br>
+- You can follow me on [Medium](https://yagizkucukkambak.medium.com) :page_with_curl: </br>
+- Also, I have a [GitHub Page](yagizkambak.github.io) :computer:
+
 
 <!--
 **yagizkambak/yagizkambak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
