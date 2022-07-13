@@ -3,13 +3,6 @@
 - You can follow me on [Medium](https://yagizkucukkambak.medium.com) :page_with_curl: </br>
 - Also, I have a [GitHub Page](https://yagizkambak.github.io) :computer:
 
-### My Medium articles: :page_with_curl:
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@yagizkucukkambak/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@yagizkucukkambak/0" alt="message-broker-rabbit-mq"> 
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@yagizkucukkambak/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@yagizkucukkambak/1" alt="docker-jira-dc-arch">
-
-
 <!--
 **yagizkambak/yagizkambak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
