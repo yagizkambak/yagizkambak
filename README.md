@@ -3,7 +3,7 @@
 - You can follow me on [Medium](https://yagizkucukkambak.medium.com) :page_with_curl: </br>
 - Also, I have a [GitHub Page](https://yagizkambak.github.io) :computer:
 
-### My Medium articles: :letter:
+### My Medium articles: :page_with_curl:
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@yagizkucukkambak/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@yagizkucukkambak/0" alt="message-broker-rabbit-mq"> 
 
