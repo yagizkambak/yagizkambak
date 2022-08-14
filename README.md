@@ -4,6 +4,12 @@
 - Also, I have a [GitHub Page](https://yagizkambak.github.io) :computer:
 
 <!--
+### Stats :bar_chart:
+
+![Yagiz's github stats](https://github-readme-stats.vercel.app/api?username=yagizkambak&show_icons=true&theme=react)
+-->
+
+<!--
 **yagizkambak/yagizkambak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
