@@ -1,4 +1,4 @@
-<img align="right" src="./assets/devops.gif" width="280" alt="DevOps Animation"/>
+<img align="right" src="./assets/devops.svg" width="280" alt="DevOps Animation"/>
 
 ### Hello there :camera:
 
